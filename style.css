@@ -9,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+
 .header {
     padding: 20px;
     background-color: #2a607c;   
@@ -44,6 +45,7 @@ p {
     font-size: 16px;
 }
 
+/* element changed to correspond with semantic element in html */
 .collaborating{
     height: 800px;
     width: 100%;
@@ -80,18 +82,20 @@ p {
     background-color: #2589bd;
 }
 
+/* With pattern recognition the below "." classes were consolidated */
 .benefit-lead, .benefit-brand, .benefit-cost  {
     margin-bottom: 32px;
    
 }
 
+/* With pattern recognition the below "." classes were consolidated */
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 
-
+/* With pattern recognition the below "." classes were consolidated */
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
@@ -120,7 +124,7 @@ p {
     font-size: 36px;
 }
 
-
+/* element changed to correspond with semantic element in html */
 footer {
     padding: 30px;
     clear: both;
