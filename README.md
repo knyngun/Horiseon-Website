@@ -2,6 +2,8 @@
 
 ## My first on-the-job ticket summary
 
+# Live link:  https://knyngun.github.io/Hired-By-Horiseon/
+
 
 
 **Assignment** I have been hired to refactor an existing site in order to make it more accessible. This entailed analyzing the html file and replacing structural elements with semantic elements and implementing those changes to correspond with the css styesheet.
