@@ -6,7 +6,7 @@
 
 **Assignment** I have been hired to refactor an existing site in order to make it more accessible. This entailed analyzing the html file and replacing structural elements with semantic elements and implementing those changes to correspond with the css styesheet.
 
-Structural <div> elements in the htmnl were replaced with <aricle>, <aside>, and <footer> semantics dependent upon the the type of content and positioning within the body.
+Structural elements in the html were replaced with semantic elements dependent upon the the type of content and positioning within the body.
 
 After reviewing the css, there were various classes with repeating syntaxes. To resolve this and clean up the css, classes sharing the same syntaxes were consolidated onto the sameline
 
