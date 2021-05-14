@@ -4,7 +4,7 @@
 
 # Live link: https://knyngun.github.io/Hired-By-Horiseon/
 
-**Assignment** I have been hired to refactor an existing site in order to make it more accessible. This entailed analyzing the html file and replacing structural elements with semantic elements and implementing those changes to correspond with the css styesheet.
+**Assignment**: I have been hired to refactor an existing site in order to make it more accessible. This entailed analyzing the html file and replacing structural elements with semantic elements and implementing those changes to correspond with the css styesheet.
 
 Structural elements in the html were replaced with semantic elements dependent upon the the type of content and positioning within the body.
 
